@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="config_wallpaperMaxScale">1.2</item>
+    <dimen name="rounded_corner_radius_bottom">73.0px</dimen>
+    <dimen name="rounded_corner_radius_top">73.0px</dimen>
+    <dimen name="status_bar_height_portrait">84.0px</dimen>
+</resources>

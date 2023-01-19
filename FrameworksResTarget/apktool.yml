@@ -17,7 +17,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.6.1
+version: 2.7.0
 versionInfo:
   versionCode: '30'
-  versionName: '12'
+  versionName: '11'
